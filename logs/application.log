@@ -1,0 +1,10 @@
+2026-09-25 09:00:01 INFO Data pipeline started
+2026-09-25 09:01:10 INFO Customer file received
+2026-09-25 09:02:15 INFO Processing customer records
+2026-09-25 09:03:20 ERROR Database connection failed
+2026-09-25 09:04:10 INFO Retrying database connection
+2026-09-25 09:04:50 INFO Database connection successful
+2026-09-25 09:05:25 ERROR API request failed
+2026-09-25 09:06:00 INFO Retrying API request
+2026-09-25 09:06:30 INFO API request successful
+2026-09-25 09:07:10 INFO Pipeline completed
