@@ -22,6 +22,8 @@ def save_data(data):
 
 def main():
     print("Starting API ingestion...")
+    print("Fetching customer data from REST API...")
+   
 
     data = fetch_users()
 
